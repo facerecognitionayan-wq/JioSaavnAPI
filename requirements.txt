@@ -1,5 +1,6 @@
 Flask
-gunicorn
 requests
 pyDes
 flask-cors
+beautifulsoup4
+lxml
